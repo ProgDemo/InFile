@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1520360861 source:e:\elte\prog_demo\infile\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"Player.h"
+
+1520360693 source:e:\elte\prog_demo\infile\player.cpp
+	"Player.h"
+
+1520349697 e:\elte\prog_demo\infile\player.h
+	<string>
+	<cstdlib>
+	<sstream>
+
