@@ -1,1 +1,3 @@
 # InFile
+
+Szövegfájl beolvasás, kivételkezelés.
